@@ -1,5 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Jeon%20Min%20Young&fontSize=90)
 
+
+---
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kouros775&layout=compact&show_icons=true&theme=darcula)  
+  ![kouros775's GitHub stats](https://github-readme-stats.vercel.app/api?username=kouros775&show_icons=true&theme=darcula)
+
+---
+
+
 ### 🔧 Tech Stack   
   ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white)

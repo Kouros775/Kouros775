@@ -21,8 +21,6 @@
   ![DirectX](https://img.shields.io/badge/directx-000000?style=for-the-badge&logo=directx&logoColor=white)
 </div>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kouros2)](https://solved.ac/kouros2)
 
 
 

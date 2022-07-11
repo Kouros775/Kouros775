@@ -10,7 +10,7 @@
 
 ### 🔧 Tech Stack   
   ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white)
   ![C#](https://img.shields.io/badge/Csharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
   
   ![MFC](https://img.shields.io/badge/MFC-5E5E5E?style=for-the-badge&logo=MFC&logoColor=white)
